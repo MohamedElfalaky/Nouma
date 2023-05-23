@@ -1,0 +1,35 @@
+import 'package:project/utils/constants.dart';
+
+const Login = 'auth/login';
+const register = 'auth/register';
+const roomstore = 'rooms';
+const shopintre = 'get_all_products/intres';
+const frame = 'get_all_products/frame';
+const permiem = 'getAllPackages';
+const buypermiem = 'buy-new-package';
+const background = 'get_all_products/background';
+const mybackground = 'backgrounds';
+const myinters = 'intres';
+const getwallet = 'getWalletAmount';
+const postwallet = "addAmountToWallet";
+const profile = 'auth/user-profile';
+const gift = 'shop-gifts';
+const fcmtokenUrl = 'fcm_token';
+const specialid = 'get_all_UserSpecialIds';
+const specialRoomid = 'special-ids-room';
+const addExp = 'addExp';
+const searchroom = 'search-room';
+const usersearch = 'search-user';
+const following = 'room/following';
+const myroom = 'my-room';
+const showfriend = 'friends/show';
+const roomBlackList = 'room-blacklist';
+const friendsrequest = 'friends/request';
+const acceptrequest = 'accept-friend';
+const deleterequest = 'delete-friend';
+const roomsetting = 'roomsetting';
+const getroom = 'my-room';
+const roomlocks = 'room-locks';
+const setLocks = 'room-password';
+
+// const shoppurchase = 'shop-purchase/';
